@@ -15,7 +15,7 @@ Chiyo-chan is a predictive sequnence model that intakes a dataset and sorts, ave
 
 ## CREDITS
 Programmer: Kiana Rodney 
-Designer: Kiana Rodney 
+  Designer: Kiana Rodney 
 released: 13/11/2026
 
 ### Contributors
