@@ -4,6 +4,8 @@
 * * *
 Chiyo-chan is a predictive sequnence model that intakes a dataset and sorts, averages and predicts a sequence.
 
+![chiyo-chan](/chiyo-chan.jpg)
+
 >Chiyo-chan has nothing to do with the intullectual property of Azumanga Daihoh please do not sue me (｡· ⩊ ·｡) 
 
 ## UPDATES 
